@@ -1,5 +1,5 @@
-body {
- Background-color:hotpink;
+body{
+  Background-color:hotpink;
 }
 
 h3{color:aqua; 
@@ -24,4 +24,5 @@ img:hover {
 table, th, td {
   border: 1px dotted aqua; Color: aqua; Text-align: Center;
 }
+
 a {Text-allign :Center; Color: aqua; Font-Size: 42px;  border: 1px dotted aqua}
